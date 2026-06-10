@@ -10,7 +10,7 @@ There is no chance that future updates will come but It depends.
 # Installation:
 
 ```bash
-git clone https://www.https://github.com/Anantbirog/Encryptor
+git clone https://www.https://github.com/Anantbirog/Encryptor.git
 cd Encryptor
 gcc Encryptor.c -o Encryptor && ./Encryptor
 ```
